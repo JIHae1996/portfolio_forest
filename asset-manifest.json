@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_forest/static/css/main.b1c7f59b.css",
+    "main.js": "/portfolio_forest/static/js/main.6a0d0cdb.js",
+    "static/media/tree01.png": "/portfolio_forest/static/media/tree01.2514ae78514bcb765fc4.png",
+    "static/media/cloud01.png": "/portfolio_forest/static/media/cloud01.b8f17c00e392767b1366.png",
+    "static/media/glass01.png": "/portfolio_forest/static/media/glass01.69e1d1ebc7c5260dcb4b.png",
+    "static/media/flower02_1.png": "/portfolio_forest/static/media/flower02_1.93d9e665fe4b179de07f.png",
+    "static/media/content_img.png": "/portfolio_forest/static/media/content_img.bcd7ef7a89ffef19f54c.png",
+    "static/media/content_img02.png": "/portfolio_forest/static/media/content_img02.161a09fc49571691e63a.png",
+    "static/media/content_img03.png": "/portfolio_forest/static/media/content_img03.d4cc7753a9b36e3aaf19.png",
+    "static/media/content_img05.png": "/portfolio_forest/static/media/content_img05.b4108f248ff4be380003.png",
+    "static/media/icon_catagory.svg": "/portfolio_forest/static/media/icon_catagory.2b653a7650904f25e1479f7db7b3e8f2.svg",
+    "index.html": "/portfolio_forest/index.html",
+    "static/media/line.svg": "/portfolio_forest/static/media/line.e4cf165fa651f1fa4d308d4c359b79e1.svg",
+    "main.b1c7f59b.css.map": "/portfolio_forest/static/css/main.b1c7f59b.css.map",
+    "main.6a0d0cdb.js.map": "/portfolio_forest/static/js/main.6a0d0cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c7f59b.css",
+    "static/js/main.6a0d0cdb.js"
+  ]
+}
