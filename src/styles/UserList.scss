@@ -1,0 +1,17 @@
+@import "Common.scss";
+.User_datas{
+    display: inline-block;
+    flex-direction: row;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
+    .card_news_img{
+        width: 50px;
+        height: 50px;
+        &img{
+            border-radius: 50%;
+        }
+    }
+}

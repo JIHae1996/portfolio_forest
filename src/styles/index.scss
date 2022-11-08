@@ -1,0 +1,53 @@
+@import "Reset.scss";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+KR:wght@100;400&family=Noto+Serif&family=Orbitron&family=Poiret+One&family=Roboto&display=swap');
+ul{list-style: none;}
+*{margin: 0; padding: 0; box-sizing: border-box;}
+input{all: unset; box-sizing: border-box; appearance: none;} 
+a{text-decoration: none;}
+//appearance: none; 기본적으로 가지고 있는 구성 요소들을 없애주는 역할
+// all: unset; 기본값 초기화 
+body{
+    overflow-x: hidden;
+    background: linear-gradient(90deg,
+        rgba(0, 0, 0, 0.2),
+        rgba(255, 255, 255, 1),
+        rgba(0, 0, 0, 0.2)
+        );
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;}
+button{
+    background-color: rgba(255, 200, 69, 1); 
+    color: #000;}
+a{
+    text-decoration: none; 
+    color: inherit;
+    font-family: 'Noto Sans', sans-serif;
+}
+form{
+    width: 100%;
+}
+.factoryInput__input::placeholder{
+    color: #000; opacity: 0.9;
+}
+.container{
+    width: 100%; 
+    display: flex; 
+    flex-direction: column;
+}
+.formInput{
+    width: 100%; 
+    padding: 10px 20px; 
+    text-align: center; 
+    color: #000;
+}
+.formBtn{
+    cursor: pointer; 
+    width: 100%; 
+    text-align: center; 
+    color: #fff; 
+    border-radius: 20px;
+}
+.cancleBtn{
+    cursor: pointer;
+    text-align: center;
+}
